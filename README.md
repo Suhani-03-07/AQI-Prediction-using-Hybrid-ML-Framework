@@ -66,24 +66,31 @@ AQI-Prediction-using-Hybrid-ML-Framework/
 ```
 
 #⚙️ How to Run the Project
+
 1️⃣ Clone the repository
-   git clone https://github.com/your-username/AQI-Prediction-using-Hybrid-ML-Framework.git
-   cd AQI-Prediction-using-Hybrid-ML-Framework
+
+- git clone https://github.com/your-username/AQI-Prediction-using-Hybrid-ML-Framework.git
+- cd AQI-Prediction-using-Hybrid-ML-Framework
 
 2️⃣ Install dependencies
-   pip install -r requirements.txt
+
+- pip install -r requirements.txt
 
 3️⃣ Run the Flask app
-   python app.py
+
+- python app.py
 
 4️⃣ Open in browser
-   http://127.0.0.1:5000/
+
+- http://127.0.0.1:5000/
 
 #📊 Future Improvements
-Real-time AQI API integration
-More cities & larger dataset
-Deploy on cloud (Render/Heroku)
-Add deep learning models
+
+- Real-time AQI API integration
+ More cities & larger dataset
+- Deploy on cloud (Render/Heroku)
+- Add deep learning models
 
 #👩‍💻 Author
+
 Suhani Bhoyar
