@@ -30,13 +30,16 @@ The web application allows users to:
 - Interactive AQI visualization using Matplotlib
 
 #🧠 Machine Learning Models Used
+
 This project combines multiple models to improve prediction accuracy:
--Multiple Linear Regression
--Random Forest Regressor
--Gradient Boosting Regressor
--Stacking Ensemble Model (Hybrid Model)
+
+- Multiple Linear Regression
+- Random Forest Regressor
+- Gradient Boosting Regressor
+- Stacking Ensemble Model (Hybrid Model)
 
 #🛠️ Tech Stack
+
 Python • Flask • Scikit-learn • Pandas • NumPy • Matplotlib • HTML • CSS
 
 #📂 Project Structure
