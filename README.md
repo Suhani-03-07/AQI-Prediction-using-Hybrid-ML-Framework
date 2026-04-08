@@ -40,7 +40,14 @@ This project combines multiple models to improve prediction accuracy:
 
 #🛠️ Tech Stack
 
-Python • Flask • Scikit-learn • Pandas • NumPy • Matplotlib • HTML • CSS
+- Python
+- Flask
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- HTML
+- CSS
 
 #📂 Project Structure
 AQI-Prediction-using-Hybrid-ML-Framework/
