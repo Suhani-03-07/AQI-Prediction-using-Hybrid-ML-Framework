@@ -9,6 +9,7 @@ This project predicts the Air Quality Index (AQI) for selected cities using a Hy
 The web application allows users to:
 
 Select a city
+
 Fetch its pollution data from the dataset
 Predict AQI using trained ML models
 View AQI visualization
