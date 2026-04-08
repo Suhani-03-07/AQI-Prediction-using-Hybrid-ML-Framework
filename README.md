@@ -8,25 +8,25 @@ This project predicts the Air Quality Index (AQI) for selected cities using a Hy
 
 The web application allows users to:
 
-Select a city
+- Select a city
 
-Fetch its pollution data from the dataset
+- Fetch its pollution data from the dataset
 
-Predict AQI using trained ML models
+- Predict AQI using trained ML models
 
-View AQI visualization
+- View AQI visualization
 
 #🚀 Features
 
--AQI prediction based on city selection
+- AQI prediction based on city selection
 
--Hybrid Machine Learning approach
+- Hybrid Machine Learning approach
 
--Flask-based web application
+- Flask-based web application
 
--Dataset-driven predictions
+- Dataset-driven predictions
 
--Interactive AQI visualization using Matplotlib
+- Interactive AQI visualization using Matplotlib
 
 #🧠 Machine Learning Models Used
 This project combines multiple models to improve prediction accuracy:
