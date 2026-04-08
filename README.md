@@ -17,10 +17,15 @@ Predict AQI using trained ML models
 View AQI visualization
 
 #🚀 Features
+
 -AQI prediction based on city selection
+
 -Hybrid Machine Learning approach
+
 -Flask-based web application
+
 -Dataset-driven predictions
+
 -Interactive AQI visualization using Matplotlib
 
 #🧠 Machine Learning Models Used
