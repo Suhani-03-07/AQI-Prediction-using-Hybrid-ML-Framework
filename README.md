@@ -1,39 +1,33 @@
-🌍 AQI Prediction using Hybrid ML Framework
+#🌍 AQI Prediction using Hybrid ML Framework
 
-📌 Project Overview
+#📌 Project Overview
+
 Air pollution has become a major environmental concern.
 This project predicts the Air Quality Index (AQI) for selected cities using a Hybrid Machine Learning model trained on historical air pollution data.
-
 The web application allows users to:
 Select a city
 Fetch its pollution data from the dataset
 Predict AQI using trained ML models
 View AQI visualization
 
-🚀 Features
-✔ AQI prediction based on city selection
-✔ Hybrid Machine Learning approach
-✔ Flask-based web application
-✔ Dataset-driven predictions
-✔ Interactive AQI visualization using Matplotlib
+#🚀 Features
+-AQI prediction based on city selection
+-Hybrid Machine Learning approach
+-Flask-based web application
+-Dataset-driven predictions
+-Interactive AQI visualization using Matplotlib
 
-🧠 Machine Learning Models Used
-
+#🧠 Machine Learning Models Used
 This project combines multiple models to improve prediction accuracy:
-Multiple Linear Regression
-Random Forest Regressor
-Gradient Boosting Regressor
-Stacking Ensemble Model (Hybrid Model)
+-Multiple Linear Regression
+-Random Forest Regressor
+-Gradient Boosting Regressor
+-Stacking Ensemble Model (Hybrid Model)
 
-🛠️ Tech Stack
-Category	Technologies
-Programming	Python
-Backend	Flask
-ML Libraries	Scikit-learn, Pandas, NumPy
-Visualization	Matplotlib
-Frontend	HTML, CSS
+#🛠️ Tech Stack
+Python • Flask • Scikit-learn • Pandas • NumPy • Matplotlib • HTML • CSS
 
-📂 Project Structure
+#📂 Project Structure
 AQI-Prediction-using-Hybrid-ML-Framework/
 │
 ├── app.py                          # Flask backend
@@ -46,7 +40,7 @@ AQI-Prediction-using-Hybrid-ML-Framework/
 ├── static/                         # Dataset used by the app
 │   └── city_day.csv
 
-⚙️ How to Run the Project
+#⚙️ How to Run the Project
 1️⃣ Clone the repository
    git clone https://github.com/your-username/AQI-Prediction-using-Hybrid-ML-Framework.git
    cd AQI-Prediction-using-Hybrid-ML-Framework
@@ -60,11 +54,11 @@ AQI-Prediction-using-Hybrid-ML-Framework/
 4️⃣ Open in browser
    http://127.0.0.1:5000/
 
-📊 Future Improvements
+#📊 Future Improvements
 Real-time AQI API integration
 More cities & larger dataset
 Deploy on cloud (Render/Heroku)
 Add deep learning models
 
-👩‍💻 Author
+#👩‍💻 Author
 Suhani Bhoyar
