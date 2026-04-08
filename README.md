@@ -50,17 +50,20 @@ This project combines multiple models to improve prediction accuracy:
 - CSS
 
 #📂 Project Structure
+## 📂 Project Structure
+```
 AQI-Prediction-using-Hybrid-ML-Framework/
 │
-├── app.py                          # Flask backend
-├── Air_quality_prediction.ipynb    # Model training notebook
+├── app.py
+├── Air_quality_prediction.ipynb
 ├── .gitignore
 │
-├── templates/                      # HTML pages
+├── templates/
 │   └── index.html
 │
-├── static/                         # Dataset used by the app
+├── static/
 │   └── city_day.csv
+```
 
 #⚙️ How to Run the Project
 1️⃣ Clone the repository
