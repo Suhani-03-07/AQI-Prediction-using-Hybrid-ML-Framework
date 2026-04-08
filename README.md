@@ -15,6 +15,7 @@ The web application allows users to:
 - Predict AQI using trained ML models
 
 - View AQI visualization
+  
 
 #🚀 Features
 
